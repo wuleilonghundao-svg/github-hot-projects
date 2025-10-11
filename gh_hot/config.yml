@@ -1,0 +1,11 @@
+days: 7
+top_n: 50
+languages:
+  - All
+  - Python
+  - JavaScript
+  - TypeScript
+  - Go
+  - Rust
+use_growth: true
+
