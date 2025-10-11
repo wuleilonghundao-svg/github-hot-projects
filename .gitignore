@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+data/*.json
+!data/latest.json
+
