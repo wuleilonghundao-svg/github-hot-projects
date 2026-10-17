@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 09:29:14",
+  "generated_at": "2026-10-17 09:17:00",
   "days": 7,
   "top_n": 50,
   "languages": [
@@ -16,7 +16,7 @@
         "full_name": "public-apis/public-apis",
         "html_url": "https://github.com/public-apis/public-apis",
         "description": "A collective list of free APIs",
-        "stargazers_count": 489209,
+        "stargazers_count": 489551,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -24,7 +24,7 @@
         "full_name": "freeCodeCamp/freeCodeCamp",
         "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "stargazers_count": 457135,
+        "stargazers_count": 457218,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -32,7 +32,7 @@
         "full_name": "EbookFoundation/free-programming-books",
         "html_url": "https://github.com/EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
-        "stargazers_count": 399153,
+        "stargazers_count": 399253,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -40,7 +40,7 @@
         "full_name": "openclaw/openclaw",
         "html_url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-        "stargazers_count": 392134,
+        "stargazers_count": 392224,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -48,7 +48,7 @@
         "full_name": "nilbuild/developer-roadmap",
         "html_url": "https://github.com/nilbuild/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stargazers_count": 369503,
+        "stargazers_count": 369600,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -56,7 +56,7 @@
         "full_name": "vinta/awesome-python",
         "html_url": "https://github.com/vinta/awesome-python",
         "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-        "stargazers_count": 327758,
+        "stargazers_count": 328035,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -64,7 +64,7 @@
         "full_name": "awesome-selfhosted/awesome-selfhosted",
         "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-        "stargazers_count": 327053,
+        "stargazers_count": 327415,
         "recent_stars": 0,
         "language": null
       },
@@ -72,15 +72,23 @@
         "full_name": "obra/superpowers",
         "html_url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stargazers_count": 300148,
+        "stargazers_count": 300802,
         "recent_stars": 0,
         "language": "Shell"
+      },
+      {
+        "full_name": "morluto/rea",
+        "html_url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "stargazers_count": 294651,
+        "recent_stars": 0,
+        "language": "TypeScript"
       },
       {
         "full_name": "mattpocock/skills",
         "html_url": "https://github.com/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "stargazers_count": 293186,
+        "stargazers_count": 294289,
         "recent_stars": 0,
         "language": "Shell"
       },
@@ -88,7 +96,7 @@
         "full_name": "practical-tutorials/project-based-learning",
         "html_url": "https://github.com/practical-tutorials/project-based-learning",
         "description": "Curated list of project-based tutorials",
-        "stargazers_count": 286840,
+        "stargazers_count": 286958,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -96,23 +104,15 @@
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stargazers_count": 280632,
+        "stargazers_count": 281703,
         "recent_stars": 0,
         "language": "JavaScript"
-      },
-      {
-        "full_name": "morluto/rea",
-        "html_url": "https://github.com/morluto/rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "stargazers_count": 277160,
-        "recent_stars": 0,
-        "language": "TypeScript"
       },
       {
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stargazers_count": 254213,
+        "stargazers_count": 254486,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -120,31 +120,31 @@
         "full_name": "torvalds/linux",
         "html_url": "https://github.com/torvalds/linux",
         "description": "Linux kernel source tree",
-        "stargazers_count": 252083,
+        "stargazers_count": 252198,
         "recent_stars": 0,
         "language": "C"
-      },
-      {
-        "full_name": "react/react",
-        "html_url": "https://github.com/react/react",
-        "description": "The library for web and native user interfaces.",
-        "stargazers_count": 251152,
-        "recent_stars": 0,
-        "language": "JavaScript"
       },
       {
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 250664,
+        "stargazers_count": 251319,
         "recent_stars": 0,
         "language": "TypeScript"
+      },
+      {
+        "full_name": "react/react",
+        "html_url": "https://github.com/react/react",
+        "description": "The library for web and native user interfaces.",
+        "stargazers_count": 251184,
+        "recent_stars": 0,
+        "language": "JavaScript"
       },
       {
         "full_name": "TheAlgorithms/Python",
         "html_url": "https://github.com/TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
-        "stargazers_count": 225294,
+        "stargazers_count": 225324,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -152,7 +152,7 @@
         "full_name": "anomalyco/opencode",
         "html_url": "https://github.com/anomalyco/opencode",
         "description": "The open source coding agent.",
-        "stargazers_count": 214034,
+        "stargazers_count": 214436,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -160,7 +160,7 @@
         "full_name": "n8n-io/n8n",
         "html_url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stargazers_count": 207587,
+        "stargazers_count": 207738,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -168,7 +168,7 @@
         "full_name": "tensorflow/tensorflow",
         "html_url": "https://github.com/tensorflow/tensorflow",
         "description": "An Open Source Machine Learning Framework for Everyone",
-        "stargazers_count": 201054,
+        "stargazers_count": 201066,
         "recent_stars": 0,
         "language": "C++"
       },
@@ -176,7 +176,7 @@
         "full_name": "yt-dlp/yt-dlp",
         "html_url": "https://github.com/yt-dlp/yt-dlp",
         "description": "A feature-rich command-line audio/video downloader",
-        "stargazers_count": 198249,
+        "stargazers_count": 198617,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -184,15 +184,23 @@
         "full_name": "ultraworkers/claw-code",
         "html_url": "https://github.com/ultraworkers/claw-code",
         "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 194925,
+        "stargazers_count": 194931,
         "recent_stars": 0,
         "language": "Rust"
+      },
+      {
+        "full_name": "massgravel/Microsoft-Activation-Scripts",
+        "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+        "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+        "stargazers_count": 194771,
+        "recent_stars": 0,
+        "language": "Batchfile"
       },
       {
         "full_name": "microsoft/vscode",
         "html_url": "https://github.com/microsoft/vscode",
         "description": "Visual Studio Code",
-        "stargazers_count": 193739,
+        "stargazers_count": 193764,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -200,7 +208,7 @@
         "full_name": "firecrawl/firecrawl",
         "html_url": "https://github.com/firecrawl/firecrawl",
         "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-        "stargazers_count": 191983,
+        "stargazers_count": 192277,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -208,7 +216,7 @@
         "full_name": "ohmyzsh/ohmyzsh",
         "html_url": "https://github.com/ohmyzsh/ohmyzsh",
         "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-        "stargazers_count": 190037,
+        "stargazers_count": 190048,
         "recent_stars": 0,
         "language": "Shell"
       },
@@ -216,7 +224,7 @@
         "full_name": "avelino/awesome-go",
         "html_url": "https://github.com/avelino/awesome-go",
         "description": "A curated list of awesome Go frameworks, libraries and software",
-        "stargazers_count": 188645,
+        "stargazers_count": 188796,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -224,7 +232,7 @@
         "full_name": "Significant-Gravitas/AutoGPT",
         "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stargazers_count": 187604,
+        "stargazers_count": 187618,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -232,23 +240,15 @@
         "full_name": "ollama/ollama",
         "html_url": "https://github.com/ollama/ollama",
         "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-        "stargazers_count": 183380,
+        "stargazers_count": 183524,
         "recent_stars": 0,
         "language": "Go"
-      },
-      {
-        "full_name": "anthropics/skills",
-        "html_url": "https://github.com/anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "stargazers_count": 181446,
-        "recent_stars": 0,
-        "language": "Python"
       },
       {
         "full_name": "flutter/flutter",
         "html_url": "https://github.com/flutter/flutter",
         "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "stargazers_count": 180232,
+        "stargazers_count": 180244,
         "recent_stars": 0,
         "language": "Dart"
       },
@@ -256,7 +256,7 @@
         "full_name": "twbs/bootstrap",
         "html_url": "https://github.com/twbs/bootstrap",
         "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-        "stargazers_count": 174921,
+        "stargazers_count": 174918,
         "recent_stars": 0,
         "language": "MDX"
       },
@@ -264,7 +264,7 @@
         "full_name": "f/prompts.chat",
         "html_url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "stargazers_count": 173114,
+        "stargazers_count": 173204,
         "recent_stars": 0,
         "language": "HTML"
       },
@@ -272,7 +272,7 @@
         "full_name": "huggingface/transformers",
         "html_url": "https://github.com/huggingface/transformers",
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-        "stargazers_count": 167748,
+        "stargazers_count": 167779,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -280,7 +280,7 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 164631,
+        "stargazers_count": 165343,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -288,7 +288,7 @@
         "full_name": "msitarzewski/agency-agents",
         "html_url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stargazers_count": 160411,
+        "stargazers_count": 160667,
         "recent_stars": 0,
         "language": "Shell"
       },
@@ -296,7 +296,7 @@
         "full_name": "Snailclimb/JavaGuide",
         "html_url": "https://github.com/Snailclimb/JavaGuide",
         "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-        "stargazers_count": 159064,
+        "stargazers_count": 159086,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -304,7 +304,7 @@
         "full_name": "langgenius/dify",
         "html_url": "https://github.com/langgenius/dify",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stargazers_count": 158611,
+        "stargazers_count": 158679,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -312,7 +312,7 @@
         "full_name": "open-webui/open-webui",
         "html_url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stargazers_count": 155850,
+        "stargazers_count": 155939,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -320,7 +320,7 @@
         "full_name": "langflow-ai/langflow",
         "html_url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stargazers_count": 155727,
+        "stargazers_count": 155764,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -328,7 +328,7 @@
         "full_name": "Genymobile/scrcpy",
         "html_url": "https://github.com/Genymobile/scrcpy",
         "description": "Display and control your Android device",
-        "stargazers_count": 152282,
+        "stargazers_count": 152351,
         "recent_stars": 0,
         "language": "C"
       },
@@ -336,7 +336,7 @@
         "full_name": "clash-verge-rev/clash-verge-rev",
         "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
         "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-        "stargazers_count": 151715,
+        "stargazers_count": 151941,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -344,7 +344,7 @@
         "full_name": "anthropics/claude-code",
         "html_url": "https://github.com/anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "stargazers_count": 151120,
+        "stargazers_count": 151291,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -352,7 +352,7 @@
         "full_name": "langchain-ai/langchain",
         "html_url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stargazers_count": 147903,
+        "stargazers_count": 147956,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -360,7 +360,7 @@
         "full_name": "farion1231/cc-switch",
         "html_url": "https://github.com/farion1231/cc-switch",
         "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "stargazers_count": 144928,
+        "stargazers_count": 145303,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -368,7 +368,7 @@
         "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "stargazers_count": 144051,
+        "stargazers_count": 144055,
         "recent_stars": 0,
         "language": null
       },
@@ -376,7 +376,7 @@
         "full_name": "vercel/next.js",
         "html_url": "https://github.com/vercel/next.js",
         "description": "The React Framework",
-        "stargazers_count": 143029,
+        "stargazers_count": 143047,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -384,7 +384,7 @@
         "full_name": "Shubhamsaboo/awesome-llm-apps",
         "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "stargazers_count": 141924,
+        "stargazers_count": 142056,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -392,7 +392,7 @@
         "full_name": "github/spec-kit",
         "html_url": "https://github.com/github/spec-kit",
         "description": "💫 Toolkit to help you get started with SDD or any other process!",
-        "stargazers_count": 141471,
+        "stargazers_count": 141581,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -400,7 +400,7 @@
         "full_name": "iptv-org/iptv",
         "html_url": "https://github.com/iptv-org/iptv",
         "description": "Collection of publicly available IPTV channels from all over the world",
-        "stargazers_count": 141041,
+        "stargazers_count": 141138,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -408,7 +408,7 @@
         "full_name": "ripienaar/free-for-dev",
         "html_url": "https://github.com/ripienaar/free-for-dev",
         "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-        "stargazers_count": 139621,
+        "stargazers_count": 139676,
         "recent_stars": 0,
         "language": "HTML"
       }
@@ -418,7 +418,7 @@
         "full_name": "public-apis/public-apis",
         "html_url": "https://github.com/public-apis/public-apis",
         "description": "A collective list of free APIs",
-        "stargazers_count": 489213,
+        "stargazers_count": 489557,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -426,7 +426,7 @@
         "full_name": "EbookFoundation/free-programming-books",
         "html_url": "https://github.com/EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
-        "stargazers_count": 399155,
+        "stargazers_count": 399256,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -434,7 +434,7 @@
         "full_name": "vinta/awesome-python",
         "html_url": "https://github.com/vinta/awesome-python",
         "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-        "stargazers_count": 327761,
+        "stargazers_count": 328042,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -442,7 +442,7 @@
         "full_name": "practical-tutorials/project-based-learning",
         "html_url": "https://github.com/practical-tutorials/project-based-learning",
         "description": "Curated list of project-based tutorials",
-        "stargazers_count": 286841,
+        "stargazers_count": 286962,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -450,7 +450,7 @@
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stargazers_count": 254223,
+        "stargazers_count": 254491,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -458,7 +458,7 @@
         "full_name": "TheAlgorithms/Python",
         "html_url": "https://github.com/TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
-        "stargazers_count": 225296,
+        "stargazers_count": 225324,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -466,7 +466,7 @@
         "full_name": "yt-dlp/yt-dlp",
         "html_url": "https://github.com/yt-dlp/yt-dlp",
         "description": "A feature-rich command-line audio/video downloader",
-        "stargazers_count": 198257,
+        "stargazers_count": 198629,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -474,15 +474,7 @@
         "full_name": "Significant-Gravitas/AutoGPT",
         "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stargazers_count": 187605,
-        "recent_stars": 0,
-        "language": "Python"
-      },
-      {
-        "full_name": "anthropics/skills",
-        "html_url": "https://github.com/anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "stargazers_count": 181449,
+        "stargazers_count": 187619,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -490,7 +482,7 @@
         "full_name": "huggingface/transformers",
         "html_url": "https://github.com/huggingface/transformers",
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-        "stargazers_count": 167750,
+        "stargazers_count": 167779,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -498,7 +490,7 @@
         "full_name": "langgenius/dify",
         "html_url": "https://github.com/langgenius/dify",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stargazers_count": 158615,
+        "stargazers_count": 158681,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -506,7 +498,7 @@
         "full_name": "open-webui/open-webui",
         "html_url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stargazers_count": 155854,
+        "stargazers_count": 155939,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -514,7 +506,7 @@
         "full_name": "langflow-ai/langflow",
         "html_url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stargazers_count": 155730,
+        "stargazers_count": 155764,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -522,7 +514,7 @@
         "full_name": "langchain-ai/langchain",
         "html_url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stargazers_count": 147905,
+        "stargazers_count": 147958,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -530,7 +522,7 @@
         "full_name": "Shubhamsaboo/awesome-llm-apps",
         "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "stargazers_count": 141928,
+        "stargazers_count": 142056,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -538,7 +530,7 @@
         "full_name": "github/spec-kit",
         "html_url": "https://github.com/github/spec-kit",
         "description": "💫 Toolkit to help you get started with SDD or any other process!",
-        "stargazers_count": 141471,
+        "stargazers_count": 141584,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -546,7 +538,7 @@
         "full_name": "Comfy-Org/ComfyUI",
         "html_url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stargazers_count": 137773,
+        "stargazers_count": 137959,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -554,7 +546,7 @@
         "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stargazers_count": 136337,
+        "stargazers_count": 136648,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -562,7 +554,7 @@
         "full_name": "harry0703/MoneyPrinterTurbo",
         "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "stargazers_count": 131827,
+        "stargazers_count": 132209,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -570,7 +562,7 @@
         "full_name": "Graphify-Labs/graphify",
         "html_url": "https://github.com/Graphify-Labs/graphify",
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "stargazers_count": 127012,
+        "stargazers_count": 127341,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -578,7 +570,15 @@
         "full_name": "browser-use/browser-use",
         "html_url": "https://github.com/browser-use/browser-use",
         "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-        "stargazers_count": 118140,
+        "stargazers_count": 118250,
+        "recent_stars": 0,
+        "language": "Python"
+      },
+      {
+        "full_name": "TauricResearch/TradingAgents",
+        "html_url": "https://github.com/TauricResearch/TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "stargazers_count": 111575,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -586,7 +586,7 @@
         "full_name": "pytorch/pytorch",
         "html_url": "https://github.com/pytorch/pytorch",
         "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stargazers_count": 104793,
+        "stargazers_count": 104811,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -594,7 +594,7 @@
         "full_name": "fastapi/fastapi",
         "html_url": "https://github.com/fastapi/fastapi",
         "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-        "stargazers_count": 103126,
+        "stargazers_count": 103155,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -602,7 +602,7 @@
         "full_name": "Panniantong/Agent-Reach",
         "html_url": "https://github.com/Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "stargazers_count": 97875,
+        "stargazers_count": 98362,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -610,7 +610,7 @@
         "full_name": "hacksider/Deep-Live-Cam",
         "html_url": "https://github.com/hacksider/Deep-Live-Cam",
         "description": "real time face swap and one-click video deepfake with only a single image",
-        "stargazers_count": 97091,
+        "stargazers_count": 97095,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -618,7 +618,7 @@
         "full_name": "sherlock-project/sherlock",
         "html_url": "https://github.com/sherlock-project/sherlock",
         "description": "Hunt down social media accounts by username across social networks",
-        "stargazers_count": 94231,
+        "stargazers_count": 94316,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -626,7 +626,7 @@
         "full_name": "vllm-project/vllm",
         "html_url": "https://github.com/vllm-project/vllm",
         "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-        "stargazers_count": 93898,
+        "stargazers_count": 93961,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -634,7 +634,7 @@
         "full_name": "odysseus-dev/odysseus",
         "html_url": "https://github.com/odysseus-dev/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 93649,
+        "stargazers_count": 93747,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -642,7 +642,7 @@
         "full_name": "home-assistant/core",
         "html_url": "https://github.com/home-assistant/core",
         "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-        "stargazers_count": 91548,
+        "stargazers_count": 91567,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -650,7 +650,7 @@
         "full_name": "django/django",
         "html_url": "https://github.com/django/django",
         "description": "The Web framework for perfectionists with deadlines.",
-        "stargazers_count": 91402,
+        "stargazers_count": 91403,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -658,7 +658,7 @@
         "full_name": "D4Vinci/Scrapling",
         "html_url": "https://github.com/D4Vinci/Scrapling",
         "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-        "stargazers_count": 87982,
+        "stargazers_count": 88170,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -666,7 +666,7 @@
         "full_name": "unclecode/crawl4ai",
         "html_url": "https://github.com/unclecode/crawl4ai",
         "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
-        "stargazers_count": 85640,
+        "stargazers_count": 85684,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -674,7 +674,7 @@
         "full_name": "bytedance/deer-flow",
         "html_url": "https://github.com/bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-        "stargazers_count": 83933,
+        "stargazers_count": 83975,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -682,7 +682,7 @@
         "full_name": "datawhalechina/hello-agents",
         "html_url": "https://github.com/datawhalechina/hello-agents",
         "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-        "stargazers_count": 83365,
+        "stargazers_count": 83445,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -690,15 +690,7 @@
         "full_name": "opendatalab/MinerU",
         "html_url": "https://github.com/opendatalab/MinerU",
         "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-        "stargazers_count": 81849,
-        "recent_stars": 0,
-        "language": "Python"
-      },
-      {
-        "full_name": "abi/screenshot-to-code",
-        "html_url": "https://github.com/abi/screenshot-to-code",
-        "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-        "stargazers_count": 80403,
+        "stargazers_count": 81886,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -706,7 +698,7 @@
         "full_name": "666ghj/MiroFish",
         "html_url": "https://github.com/666ghj/MiroFish",
         "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "stargazers_count": 79558,
+        "stargazers_count": 79789,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -714,7 +706,7 @@
         "full_name": "unslothai/unsloth",
         "html_url": "https://github.com/unslothai/unsloth",
         "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
-        "stargazers_count": 78096,
+        "stargazers_count": 78145,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -722,7 +714,7 @@
         "full_name": "python/cpython",
         "html_url": "https://github.com/python/cpython",
         "description": "The Python programming language",
-        "stargazers_count": 77651,
+        "stargazers_count": 77650,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -730,15 +722,7 @@
         "full_name": "tensorflow/models",
         "html_url": "https://github.com/tensorflow/models",
         "description": "Models and examples built with TensorFlow",
-        "stargazers_count": 77644,
-        "recent_stars": 0,
-        "language": "Python"
-      },
-      {
-        "full_name": "hiyouga/LlamaFactory",
-        "html_url": "https://github.com/hiyouga/LlamaFactory",
-        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
-        "stargazers_count": 75502,
+        "stargazers_count": 77645,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -746,7 +730,15 @@
         "full_name": "headroomlabs-ai/headroom",
         "html_url": "https://github.com/headroomlabs-ai/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "stargazers_count": 75468,
+        "stargazers_count": 75543,
+        "recent_stars": 0,
+        "language": "Python"
+      },
+      {
+        "full_name": "hiyouga/LlamaFactory",
+        "html_url": "https://github.com/hiyouga/LlamaFactory",
+        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+        "stargazers_count": 75524,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -754,7 +746,7 @@
         "full_name": "apache/superset",
         "html_url": "https://github.com/apache/superset",
         "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-        "stargazers_count": 75163,
+        "stargazers_count": 75174,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -762,7 +754,7 @@
         "full_name": "josephmisiti/awesome-machine-learning",
         "html_url": "https://github.com/josephmisiti/awesome-machine-learning",
         "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
-        "stargazers_count": 74590,
+        "stargazers_count": 74597,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -770,31 +762,7 @@
         "full_name": "openbq-org/OpenBB",
         "html_url": "https://github.com/openbq-org/OpenBB",
         "description": "Open Data Platform for analysts, quants and AI agents.",
-        "stargazers_count": 74281,
-        "recent_stars": 0,
-        "language": "Python"
-      },
-      {
-        "full_name": "ansible/ansible",
-        "html_url": "https://github.com/ansible/ansible",
-        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
-        "stargazers_count": 70985,
-        "recent_stars": 0,
-        "language": "Python"
-      },
-      {
-        "full_name": "rohitg00/ai-engineering-from-scratch",
-        "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-        "stargazers_count": 69917,
-        "recent_stars": 0,
-        "language": "Python"
-      },
-      {
-        "full_name": "asgeirtj/system_prompts_leaks",
-        "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "stargazers_count": 69724,
+        "stargazers_count": 74315,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -802,7 +770,39 @@
         "full_name": "debpalash/VoiceStudio",
         "html_url": "https://github.com/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stargazers_count": 69655,
+        "stargazers_count": 71710,
+        "recent_stars": 0,
+        "language": "Python"
+      },
+      {
+        "full_name": "ansible/ansible",
+        "html_url": "https://github.com/ansible/ansible",
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+        "stargazers_count": 70999,
+        "recent_stars": 0,
+        "language": "Python"
+      },
+      {
+        "full_name": "rohitg00/ai-engineering-from-scratch",
+        "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+        "stargazers_count": 70411,
+        "recent_stars": 0,
+        "language": "Python"
+      },
+      {
+        "full_name": "asgeirtj/system_prompts_leaks",
+        "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "stargazers_count": 69773,
+        "recent_stars": 0,
+        "language": "Python"
+      },
+      {
+        "full_name": "usestrix/strix",
+        "html_url": "https://github.com/usestrix/strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "stargazers_count": 69071,
         "recent_stars": 0,
         "language": "Python"
       },
@@ -810,7 +810,7 @@
         "full_name": "docling-project/docling",
         "html_url": "https://github.com/docling-project/docling",
         "description": "Get your documents ready for gen AI",
-        "stargazers_count": 68965,
+        "stargazers_count": 68996,
         "recent_stars": 0,
         "language": "Python"
       }
@@ -820,7 +820,7 @@
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stargazers_count": 280675,
+        "stargazers_count": 281737,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -828,7 +828,7 @@
         "full_name": "react/react",
         "html_url": "https://github.com/react/react",
         "description": "The library for web and native user interfaces.",
-        "stargazers_count": 251151,
+        "stargazers_count": 251184,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -836,7 +836,7 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 164666,
+        "stargazers_count": 165369,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -844,7 +844,7 @@
         "full_name": "Snailclimb/JavaGuide",
         "html_url": "https://github.com/Snailclimb/JavaGuide",
         "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-        "stargazers_count": 159064,
+        "stargazers_count": 159086,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -852,7 +852,7 @@
         "full_name": "vercel/next.js",
         "html_url": "https://github.com/vercel/next.js",
         "description": "The React Framework",
-        "stargazers_count": 143029,
+        "stargazers_count": 143047,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -860,7 +860,7 @@
         "full_name": "nodejs/node",
         "html_url": "https://github.com/nodejs/node",
         "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-        "stargazers_count": 122381,
+        "stargazers_count": 122380,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -868,7 +868,7 @@
         "full_name": "mrdoob/three.js",
         "html_url": "https://github.com/mrdoob/three.js",
         "description": "JavaScript 3D Library.",
-        "stargazers_count": 116477,
+        "stargazers_count": 116524,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -876,7 +876,7 @@
         "full_name": "axios/axios",
         "html_url": "https://github.com/axios/axios",
         "description": "Promise based HTTP client for the browser and node.js",
-        "stargazers_count": 109302,
+        "stargazers_count": 109301,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -884,7 +884,7 @@
         "full_name": "addyosmani/agent-skills",
         "html_url": "https://github.com/addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stargazers_count": 107145,
+        "stargazers_count": 107508,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -892,7 +892,7 @@
         "full_name": "mui/material-ui",
         "html_url": "https://github.com/mui/material-ui",
         "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
-        "stargazers_count": 99226,
+        "stargazers_count": 99229,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -900,7 +900,7 @@
         "full_name": "Leonxlnx/taste-skill",
         "html_url": "https://github.com/Leonxlnx/taste-skill",
         "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-        "stargazers_count": 97597,
+        "stargazers_count": 98138,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -908,7 +908,7 @@
         "full_name": "microsoft/Web-Dev-For-Beginners",
         "html_url": "https://github.com/microsoft/Web-Dev-For-Beginners",
         "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-        "stargazers_count": 96962,
+        "stargazers_count": 96967,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -916,7 +916,7 @@
         "full_name": "louislam/uptime-kuma",
         "html_url": "https://github.com/louislam/uptime-kuma",
         "description": "A fancy self-hosted monitoring tool",
-        "stargazers_count": 92525,
+        "stargazers_count": 92564,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -924,7 +924,7 @@
         "full_name": "modelcontextprotocol/servers",
         "html_url": "https://github.com/modelcontextprotocol/servers",
         "description": "Model Context Protocol Servers",
-        "stargazers_count": 91302,
+        "stargazers_count": 91322,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -932,7 +932,7 @@
         "full_name": "sveltejs/svelte",
         "html_url": "https://github.com/sveltejs/svelte",
         "description": "web development for the rest of us",
-        "stargazers_count": 88384,
+        "stargazers_count": 88388,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -940,7 +940,7 @@
         "full_name": "tt-a1i/archify",
         "html_url": "https://github.com/tt-a1i/archify",
         "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-        "stargazers_count": 84201,
+        "stargazers_count": 84572,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -948,15 +948,7 @@
         "full_name": "career-ops-hq/career-ops",
         "html_url": "https://github.com/career-ops-hq/career-ops",
         "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
-        "stargazers_count": 75099,
-        "recent_stars": 0,
-        "language": "JavaScript"
-      },
-      {
-        "full_name": "expressjs/express",
-        "html_url": "https://github.com/expressjs/express",
-        "description": "Fast, unopinionated, minimalist web framework for node.",
-        "stargazers_count": 69572,
+        "stargazers_count": 75277,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -964,7 +956,7 @@
         "full_name": "byoungd/up",
         "html_url": "https://github.com/byoungd/up",
         "description": "韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
-        "stargazers_count": 68769,
+        "stargazers_count": 68818,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -972,7 +964,7 @@
         "full_name": "gorhill/uBlock",
         "html_url": "https://github.com/gorhill/uBlock",
         "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
-        "stargazers_count": 68589,
+        "stargazers_count": 68610,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -980,7 +972,15 @@
         "full_name": "Mintplex-Labs/anything-llm",
         "html_url": "https://github.com/Mintplex-Labs/anything-llm",
         "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-        "stargazers_count": 67180,
+        "stargazers_count": 67228,
+        "recent_stars": 0,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "leonardomso/33-js-concepts",
+        "html_url": "https://github.com/leonardomso/33-js-concepts",
+        "description": "📜 33 JavaScript concepts every developer should know.",
+        "stargazers_count": 66533,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -996,7 +996,15 @@
         "full_name": "jgraph/drawio-desktop",
         "html_url": "https://github.com/jgraph/drawio-desktop",
         "description": "Official electron build of draw.io",
-        "stargazers_count": 63524,
+        "stargazers_count": 63537,
+        "recent_stars": 0,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "jquery/jquery",
+        "html_url": "https://github.com/jquery/jquery",
+        "description": "jQuery JavaScript Library",
+        "stargazers_count": 59862,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1004,7 +1012,7 @@
         "full_name": "h5bp/html5-boilerplate",
         "html_url": "https://github.com/h5bp/html5-boilerplate",
         "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-        "stargazers_count": 57649,
+        "stargazers_count": 57650,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1012,7 +1020,7 @@
         "full_name": "bilawalsidhu/gods-eye-view",
         "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stargazers_count": 57020,
+        "stargazers_count": 57349,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1020,7 +1028,7 @@
         "full_name": "gatsbyjs/gatsby",
         "html_url": "https://github.com/gatsbyjs/gatsby",
         "description": "React-based framework with performance, scalability, and security built in.",
-        "stargazers_count": 55937,
+        "stargazers_count": 55938,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1028,7 +1036,7 @@
         "full_name": "coreyhaines31/marketingskills",
         "html_url": "https://github.com/coreyhaines31/marketingskills",
         "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "stargazers_count": 54966,
+        "stargazers_count": 55151,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1036,7 +1044,7 @@
         "full_name": "mozilla/pdf.js",
         "html_url": "https://github.com/mozilla/pdf.js",
         "description": "PDF Reader in JavaScript",
-        "stargazers_count": 54009,
+        "stargazers_count": 54011,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1044,7 +1052,7 @@
         "full_name": "prettier/prettier",
         "html_url": "https://github.com/prettier/prettier",
         "description": "Prettier is an opinionated code formatter.",
-        "stargazers_count": 52373,
+        "stargazers_count": 52379,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1052,7 +1060,7 @@
         "full_name": "bigskysoftware/htmx",
         "html_url": "https://github.com/bigskysoftware/htmx",
         "description": "</> htmx - high power tools for HTML",
-        "stargazers_count": 49573,
+        "stargazers_count": 49578,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1060,7 +1068,7 @@
         "full_name": "DavidHDev/react-bits",
         "html_url": "https://github.com/DavidHDev/react-bits",
         "description": "The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.",
-        "stargazers_count": 49356,
+        "stargazers_count": 49437,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1068,7 +1076,7 @@
         "full_name": "usebruno/bruno",
         "html_url": "https://github.com/usebruno/bruno",
         "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-        "stargazers_count": 47673,
+        "stargazers_count": 47692,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1076,7 +1084,7 @@
         "full_name": "serverless/serverless",
         "html_url": "https://github.com/serverless/serverless",
         "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",
-        "stargazers_count": 46923,
+        "stargazers_count": 46924,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1084,7 +1092,7 @@
         "full_name": "microsoft/monaco-editor",
         "html_url": "https://github.com/microsoft/monaco-editor",
         "description": "A browser based code editor",
-        "stargazers_count": 46870,
+        "stargazers_count": 46871,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1092,7 +1100,7 @@
         "full_name": "google/zx",
         "html_url": "https://github.com/google/zx",
         "description": "A tool for writing better scripts",
-        "stargazers_count": 45792,
+        "stargazers_count": 45797,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1100,7 +1108,7 @@
         "full_name": "Leaflet/Leaflet",
         "html_url": "https://github.com/Leaflet/Leaflet",
         "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
-        "stargazers_count": 45761,
+        "stargazers_count": 45765,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1108,7 +1116,7 @@
         "full_name": "sudheerj/reactjs-interview-questions",
         "html_url": "https://github.com/sudheerj/reactjs-interview-questions",
         "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
-        "stargazers_count": 44879,
+        "stargazers_count": 44883,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1116,7 +1124,7 @@
         "full_name": "meteor/meteor",
         "html_url": "https://github.com/meteor/meteor",
         "description": "Meteor, the JavaScript App Platform",
-        "stargazers_count": 44794,
+        "stargazers_count": 44796,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1124,7 +1132,7 @@
         "full_name": "NaiboWang/EasySpider",
         "html_url": "https://github.com/NaiboWang/EasySpider",
         "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
-        "stargazers_count": 44687,
+        "stargazers_count": 44696,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1132,7 +1140,7 @@
         "full_name": "parcel-bundler/parcel",
         "html_url": "https://github.com/parcel-bundler/parcel",
         "description": "The zero configuration build tool for the web. 📦🚀",
-        "stargazers_count": 44004,
+        "stargazers_count": 44006,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1140,7 +1148,7 @@
         "full_name": "saadeghi/daisyui",
         "html_url": "https://github.com/saadeghi/daisyui",
         "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-        "stargazers_count": 42608,
+        "stargazers_count": 42612,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1148,7 +1156,7 @@
         "full_name": "dcloudio/uni-app",
         "html_url": "https://github.com/dcloudio/uni-app",
         "description": "A cross-platform framework using Vue.js",
-        "stargazers_count": 41615,
+        "stargazers_count": 41617,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1156,7 +1164,15 @@
         "full_name": "nwjs/nw.js",
         "html_url": "https://github.com/nwjs/nw.js",
         "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
-        "stargazers_count": 41135,
+        "stargazers_count": 41136,
+        "recent_stars": 0,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "remoteintech/remote-jobs",
+        "html_url": "https://github.com/remoteintech/remote-jobs",
+        "description": "Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies",
+        "stargazers_count": 40891,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1164,7 +1180,7 @@
         "full_name": "github/awesome-copilot",
         "html_url": "https://github.com/github/awesome-copilot",
         "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-        "stargazers_count": 40069,
+        "stargazers_count": 40105,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1172,7 +1188,7 @@
         "full_name": "drawdb-io/drawdb",
         "html_url": "https://github.com/drawdb-io/drawdb",
         "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-        "stargazers_count": 40035,
+        "stargazers_count": 40050,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1180,7 +1196,7 @@
         "full_name": "preactjs/preact",
         "html_url": "https://github.com/preactjs/preact",
         "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
-        "stargazers_count": 38931,
+        "stargazers_count": 38934,
         "recent_stars": 0,
         "language": "JavaScript"
       },
@@ -1199,22 +1215,6 @@
         "stargazers_count": 37241,
         "recent_stars": 0,
         "language": "JavaScript"
-      },
-      {
-        "full_name": "gchq/CyberChef",
-        "html_url": "https://github.com/gchq/CyberChef",
-        "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
-        "stargazers_count": 36130,
-        "recent_stars": 0,
-        "language": "JavaScript"
-      },
-      {
-        "full_name": "koajs/koa",
-        "html_url": "https://github.com/koajs/koa",
-        "description": "Expressive middleware for node.js using ES2017 async functions",
-        "stargazers_count": 35678,
-        "recent_stars": 0,
-        "language": "JavaScript"
       }
     ],
     "TypeScript": [
@@ -1222,7 +1222,7 @@
         "full_name": "freeCodeCamp/freeCodeCamp",
         "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "stargazers_count": 457139,
+        "stargazers_count": 457231,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1230,7 +1230,7 @@
         "full_name": "openclaw/openclaw",
         "html_url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-        "stargazers_count": 392142,
+        "stargazers_count": 392232,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1238,7 +1238,7 @@
         "full_name": "nilbuild/developer-roadmap",
         "html_url": "https://github.com/nilbuild/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "stargazers_count": 369506,
+        "stargazers_count": 369607,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1246,7 +1246,7 @@
         "full_name": "morluto/rea",
         "html_url": "https://github.com/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "stargazers_count": 278866,
+        "stargazers_count": 295732,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1254,7 +1254,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 250736,
+        "stargazers_count": 251367,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1262,7 +1262,7 @@
         "full_name": "anomalyco/opencode",
         "html_url": "https://github.com/anomalyco/opencode",
         "description": "The open source coding agent.",
-        "stargazers_count": 214068,
+        "stargazers_count": 214460,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1270,7 +1270,7 @@
         "full_name": "n8n-io/n8n",
         "html_url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stargazers_count": 207601,
+        "stargazers_count": 207743,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1278,7 +1278,7 @@
         "full_name": "microsoft/vscode",
         "html_url": "https://github.com/microsoft/vscode",
         "description": "Visual Studio Code",
-        "stargazers_count": 193741,
+        "stargazers_count": 193762,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1286,7 +1286,7 @@
         "full_name": "firecrawl/firecrawl",
         "html_url": "https://github.com/firecrawl/firecrawl",
         "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-        "stargazers_count": 191999,
+        "stargazers_count": 192294,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1294,7 +1294,7 @@
         "full_name": "anthropics/claude-code",
         "html_url": "https://github.com/anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "stargazers_count": 151135,
+        "stargazers_count": 151300,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1302,7 +1302,7 @@
         "full_name": "iptv-org/iptv",
         "html_url": "https://github.com/iptv-org/iptv",
         "description": "Collection of publicly available IPTV channels from all over the world",
-        "stargazers_count": 141045,
+        "stargazers_count": 141140,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1310,7 +1310,7 @@
         "full_name": "garrytan/gstack",
         "html_url": "https://github.com/garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stargazers_count": 136613,
+        "stargazers_count": 136701,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1318,7 +1318,7 @@
         "full_name": "excalidraw/excalidraw",
         "html_url": "https://github.com/excalidraw/excalidraw",
         "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-        "stargazers_count": 133961,
+        "stargazers_count": 134019,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1326,7 +1326,7 @@
         "full_name": "shadcn-ui/ui",
         "html_url": "https://github.com/shadcn-ui/ui",
         "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-        "stargazers_count": 125731,
+        "stargazers_count": 125778,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1334,7 +1334,7 @@
         "full_name": "immich-app/immich",
         "html_url": "https://github.com/immich-app/immich",
         "description": "High performance self-hosted photo and video management solution.",
-        "stargazers_count": 116385,
+        "stargazers_count": 116448,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1342,7 +1342,7 @@
         "full_name": "earendil-works/pi",
         "html_url": "https://github.com/earendil-works/pi",
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stargazers_count": 115586,
+        "stargazers_count": 115807,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1350,7 +1350,7 @@
         "full_name": "supabase/supabase",
         "html_url": "https://github.com/supabase/supabase",
         "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "stargazers_count": 111630,
+        "stargazers_count": 111665,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1358,7 +1358,7 @@
         "full_name": "google-gemini/gemini-cli",
         "html_url": "https://github.com/google-gemini/gemini-cli",
         "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "stargazers_count": 107398,
+        "stargazers_count": 107415,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1366,7 +1366,7 @@
         "full_name": "paperclipai/paperclip",
         "html_url": "https://github.com/paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
-        "stargazers_count": 102899,
+        "stargazers_count": 103293,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1374,7 +1374,7 @@
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
-        "stargazers_count": 101424,
+        "stargazers_count": 101731,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1382,7 +1382,7 @@
         "full_name": "thedotmack/claude-mem",
         "html_url": "https://github.com/thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "stargazers_count": 101133,
+        "stargazers_count": 101274,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1390,7 +1390,7 @@
         "full_name": "angular/angular",
         "html_url": "https://github.com/angular/angular",
         "description": "Deliver web apps with confidence 🚀",
-        "stargazers_count": 101061,
+        "stargazers_count": 101067,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1398,15 +1398,7 @@
         "full_name": "ant-design/ant-design",
         "html_url": "https://github.com/ant-design/ant-design",
         "description": "An enterprise-class UI design language and React UI library",
-        "stargazers_count": 99787,
-        "recent_stars": 0,
-        "language": "TypeScript"
-      },
-      {
-        "full_name": "tailwindlabs/tailwindcss",
-        "html_url": "https://github.com/tailwindlabs/tailwindcss",
-        "description": "A utility-first CSS framework for rapid UI development.",
-        "stargazers_count": 97881,
+        "stargazers_count": 99799,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1414,7 +1406,15 @@
         "full_name": "microsoft/playwright",
         "html_url": "https://github.com/microsoft/playwright",
         "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
-        "stargazers_count": 97827,
+        "stargazers_count": 97894,
+        "recent_stars": 0,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "tailwindlabs/tailwindcss",
+        "html_url": "https://github.com/tailwindlabs/tailwindcss",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "stargazers_count": 97892,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1422,7 +1422,15 @@
         "full_name": "puppeteer/puppeteer",
         "html_url": "https://github.com/puppeteer/puppeteer",
         "description": "JavaScript API for Chrome and Firefox",
-        "stargazers_count": 95703,
+        "stargazers_count": 95712,
+        "recent_stars": 0,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "stablyai/orca",
+        "html_url": "https://github.com/stablyai/orca",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "stargazers_count": 94706,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1430,15 +1438,7 @@
         "full_name": "Stirling-Tools/Stirling-PDF",
         "html_url": "https://github.com/Stirling-Tools/Stirling-PDF",
         "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-        "stargazers_count": 94306,
-        "recent_stars": 0,
-        "language": "TypeScript"
-      },
-      {
-        "full_name": "stablyai/orca",
-        "html_url": "https://github.com/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stargazers_count": 93851,
+        "stargazers_count": 94356,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1446,7 +1446,7 @@
         "full_name": "storybookjs/storybook",
         "html_url": "https://github.com/storybookjs/storybook",
         "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
-        "stargazers_count": 91316,
+        "stargazers_count": 91322,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1454,7 +1454,7 @@
         "full_name": "OpenHands/OpenHands",
         "html_url": "https://github.com/OpenHands/OpenHands",
         "description": "🙌 OpenHands: AI-Driven Development",
-        "stargazers_count": 91027,
+        "stargazers_count": 91093,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1462,7 +1462,7 @@
         "full_name": "mermaid-js/mermaid",
         "html_url": "https://github.com/mermaid-js/mermaid",
         "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
-        "stargazers_count": 90690,
+        "stargazers_count": 90714,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1470,7 +1470,7 @@
         "full_name": "ChatGPTNextWeb/NextChat",
         "html_url": "https://github.com/ChatGPTNextWeb/NextChat",
         "description": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
-        "stargazers_count": 88854,
+        "stargazers_count": 88851,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1478,7 +1478,7 @@
         "full_name": "koala73/worldmonitor",
         "html_url": "https://github.com/koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "stargazers_count": 88536,
+        "stargazers_count": 88582,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1486,7 +1486,7 @@
         "full_name": "Egonex-AI/Understand-Anything",
         "html_url": "https://github.com/Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-        "stargazers_count": 86538,
+        "stargazers_count": 86695,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1494,7 +1494,7 @@
         "full_name": "vitejs/vite",
         "html_url": "https://github.com/vitejs/vite",
         "description": "Next generation frontend tooling. It's fast!",
-        "stargazers_count": 83342,
+        "stargazers_count": 83359,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1502,7 +1502,7 @@
         "full_name": "lobehub/lobehub",
         "html_url": "https://github.com/lobehub/lobehub",
         "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-        "stargazers_count": 83266,
+        "stargazers_count": 83280,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1510,7 +1510,7 @@
         "full_name": "hoppscotch/hoppscotch",
         "html_url": "https://github.com/hoppscotch/hoppscotch",
         "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
-        "stargazers_count": 80635,
+        "stargazers_count": 80636,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1518,15 +1518,7 @@
         "full_name": "coder/code-server",
         "html_url": "https://github.com/coder/code-server",
         "description": "VS Code in the browser",
-        "stargazers_count": 79628,
-        "recent_stars": 0,
-        "language": "TypeScript"
-      },
-      {
-        "full_name": "grafana/grafana",
-        "html_url": "https://github.com/grafana/grafana",
-        "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
-        "stargazers_count": 77308,
+        "stargazers_count": 79637,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1534,7 +1526,15 @@
         "full_name": "diegosouzapw/OmniRoute",
         "html_url": "https://github.com/diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
-        "stargazers_count": 77131,
+        "stargazers_count": 77464,
+        "recent_stars": 0,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "grafana/grafana",
+        "html_url": "https://github.com/grafana/grafana",
+        "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+        "stargazers_count": 77325,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1550,7 +1550,7 @@
         "full_name": "ruvnet/ruflo",
         "html_url": "https://github.com/ruvnet/ruflo",
         "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "stargazers_count": 75317,
+        "stargazers_count": 75744,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1558,7 +1558,7 @@
         "full_name": "Eugeny/tabby",
         "html_url": "https://github.com/Eugeny/tabby",
         "description": "A terminal for a more modern age",
-        "stargazers_count": 74991,
+        "stargazers_count": 75000,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1566,7 +1566,7 @@
         "full_name": "toeverything/AFFiNE",
         "html_url": "https://github.com/toeverything/AFFiNE",
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
-        "stargazers_count": 73560,
+        "stargazers_count": 73582,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1574,7 +1574,7 @@
         "full_name": "strapi/strapi",
         "html_url": "https://github.com/strapi/strapi",
         "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
-        "stargazers_count": 73319,
+        "stargazers_count": 73325,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1582,7 +1582,7 @@
         "full_name": "Fission-AI/OpenSpec",
         "html_url": "https://github.com/Fission-AI/OpenSpec",
         "description": "Spec-driven development (SDD) for AI coding assistants.",
-        "stargazers_count": 72098,
+        "stargazers_count": 72182,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1590,7 +1590,7 @@
         "full_name": "cline/cline",
         "html_url": "https://github.com/cline/cline",
         "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-        "stargazers_count": 70394,
+        "stargazers_count": 70442,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1598,7 +1598,7 @@
         "full_name": "code-yeongyu/oh-my-openagent",
         "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
         "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-        "stargazers_count": 70087,
+        "stargazers_count": 70120,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1606,7 +1606,7 @@
         "full_name": "apache/echarts",
         "html_url": "https://github.com/apache/echarts",
         "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
-        "stargazers_count": 67519,
+        "stargazers_count": 67527,
         "recent_stars": 0,
         "language": "TypeScript"
       },
@@ -1614,7 +1614,7 @@
         "full_name": "facebook/docusaurus",
         "html_url": "https://github.com/facebook/docusaurus",
         "description": "Easy to maintain open source documentation websites.",
-        "stargazers_count": 66500,
+        "stargazers_count": 66506,
         "recent_stars": 0,
         "language": "TypeScript"
       }
@@ -1624,7 +1624,7 @@
         "full_name": "avelino/awesome-go",
         "html_url": "https://github.com/avelino/awesome-go",
         "description": "A curated list of awesome Go frameworks, libraries and software",
-        "stargazers_count": 188664,
+        "stargazers_count": 188809,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1632,7 +1632,7 @@
         "full_name": "ollama/ollama",
         "html_url": "https://github.com/ollama/ollama",
         "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-        "stargazers_count": 183395,
+        "stargazers_count": 183538,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1640,7 +1640,7 @@
         "full_name": "golang/go",
         "html_url": "https://github.com/golang/go",
         "description": "The Go programming language",
-        "stargazers_count": 139275,
+        "stargazers_count": 139277,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1648,7 +1648,7 @@
         "full_name": "kubernetes/kubernetes",
         "html_url": "https://github.com/kubernetes/kubernetes",
         "description": "Production-Grade Container Scheduling and Management",
-        "stargazers_count": 128312,
+        "stargazers_count": 128314,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1656,7 +1656,7 @@
         "full_name": "JuliusBrussee/caveman",
         "html_url": "https://github.com/JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-        "stargazers_count": 112861,
+        "stargazers_count": 113121,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1664,7 +1664,7 @@
         "full_name": "microsoft/TypeScript",
         "html_url": "https://github.com/microsoft/TypeScript",
         "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-        "stargazers_count": 111493,
+        "stargazers_count": 111504,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1672,7 +1672,7 @@
         "full_name": "fatedier/frp",
         "html_url": "https://github.com/fatedier/frp",
         "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-        "stargazers_count": 109943,
+        "stargazers_count": 109958,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1680,7 +1680,7 @@
         "full_name": "infiniflow/ragflow",
         "html_url": "https://github.com/infiniflow/ragflow",
         "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-        "stargazers_count": 92316,
+        "stargazers_count": 92354,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1688,7 +1688,7 @@
         "full_name": "gohugoio/hugo",
         "html_url": "https://github.com/gohugoio/hugo",
         "description": "The world’s fastest framework for building websites.",
-        "stargazers_count": 90131,
+        "stargazers_count": 90143,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1696,7 +1696,7 @@
         "full_name": "syncthing/syncthing",
         "html_url": "https://github.com/syncthing/syncthing",
         "description": "Open Source Continuous File Synchronization",
-        "stargazers_count": 89437,
+        "stargazers_count": 89462,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1712,7 +1712,7 @@
         "full_name": "junegunn/fzf",
         "html_url": "https://github.com/junegunn/fzf",
         "description": ":cherry_blossom: A command-line fuzzy finder",
-        "stargazers_count": 83592,
+        "stargazers_count": 83615,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1720,7 +1720,7 @@
         "full_name": "jesseduffield/lazygit",
         "html_url": "https://github.com/jesseduffield/lazygit",
         "description": "simple terminal UI for git commands",
-        "stargazers_count": 83219,
+        "stargazers_count": 83253,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1728,7 +1728,7 @@
         "full_name": "netdata/netdata",
         "html_url": "https://github.com/netdata/netdata",
         "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-        "stargazers_count": 80969,
+        "stargazers_count": 80982,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1736,7 +1736,7 @@
         "full_name": "caddyserver/caddy",
         "html_url": "https://github.com/caddyserver/caddy",
         "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-        "stargazers_count": 78038,
+        "stargazers_count": 78061,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1744,7 +1744,7 @@
         "full_name": "moby/moby",
         "html_url": "https://github.com/moby/moby",
         "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-        "stargazers_count": 72190,
+        "stargazers_count": 72194,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1752,7 +1752,7 @@
         "full_name": "prometheus/prometheus",
         "html_url": "https://github.com/prometheus/prometheus",
         "description": "The Prometheus monitoring system and time series database.",
-        "stargazers_count": 66581,
+        "stargazers_count": 66598,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1760,7 +1760,7 @@
         "full_name": "traefik/traefik",
         "html_url": "https://github.com/traefik/traefik",
         "description": "The Cloud Native Application Proxy",
-        "stargazers_count": 65243,
+        "stargazers_count": 65260,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1768,7 +1768,7 @@
         "full_name": "usememos/memos",
         "html_url": "https://github.com/usememos/memos",
         "description": "A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.",
-        "stargazers_count": 63833,
+        "stargazers_count": 63863,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1776,7 +1776,7 @@
         "full_name": "pocketbase/pocketbase",
         "html_url": "https://github.com/pocketbase/pocketbase",
         "description": "Open Source realtime backend in 1 file",
-        "stargazers_count": 61440,
+        "stargazers_count": 61453,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1784,7 +1784,7 @@
         "full_name": "rclone/rclone",
         "html_url": "https://github.com/rclone/rclone",
         "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-        "stargazers_count": 60323,
+        "stargazers_count": 60353,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1792,7 +1792,7 @@
         "full_name": "go-gitea/gitea",
         "html_url": "https://github.com/go-gitea/gitea",
         "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-        "stargazers_count": 58531,
+        "stargazers_count": 58537,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1800,7 +1800,7 @@
         "full_name": "router-for-me/CLIProxyAPI",
         "html_url": "https://github.com/router-for-me/CLIProxyAPI",
         "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-        "stargazers_count": 55404,
+        "stargazers_count": 55484,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1808,7 +1808,7 @@
         "full_name": "multica-ai/multica",
         "html_url": "https://github.com/multica-ai/multica",
         "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-        "stargazers_count": 52980,
+        "stargazers_count": 53040,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1824,7 +1824,7 @@
         "full_name": "ethereum/go-ethereum",
         "html_url": "https://github.com/ethereum/go-ethereum",
         "description": "Go implementation of the Ethereum protocol",
-        "stargazers_count": 51405,
+        "stargazers_count": 51408,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1832,7 +1832,7 @@
         "full_name": "AlistGo/alist",
         "html_url": "https://github.com/AlistGo/alist",
         "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
-        "stargazers_count": 50303,
+        "stargazers_count": 50314,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1840,7 +1840,7 @@
         "full_name": "QuantumNous/new-api",
         "html_url": "https://github.com/QuantumNous/new-api",
         "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-        "stargazers_count": 50071,
+        "stargazers_count": 50103,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1848,7 +1848,7 @@
         "full_name": "hashicorp/terraform",
         "html_url": "https://github.com/hashicorp/terraform",
         "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-        "stargazers_count": 49931,
+        "stargazers_count": 49936,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1856,7 +1856,7 @@
         "full_name": "mudler/LocalAI",
         "html_url": "https://github.com/mudler/LocalAI",
         "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-        "stargazers_count": 49573,
+        "stargazers_count": 49592,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1864,7 +1864,7 @@
         "full_name": "MHSanaei/3x-ui",
         "html_url": "https://github.com/MHSanaei/3x-ui",
         "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) ",
-        "stargazers_count": 48095,
+        "stargazers_count": 48153,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1872,7 +1872,7 @@
         "full_name": "alibaba/open-code-review",
         "html_url": "https://github.com/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stargazers_count": 47450,
+        "stargazers_count": 47515,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1880,7 +1880,7 @@
         "full_name": "cli/cli",
         "html_url": "https://github.com/cli/cli",
         "description": "GitHub’s official command line tool",
-        "stargazers_count": 46662,
+        "stargazers_count": 46673,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1888,7 +1888,7 @@
         "full_name": "milvus-io/milvus",
         "html_url": "https://github.com/milvus-io/milvus",
         "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-        "stargazers_count": 46398,
+        "stargazers_count": 46407,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1896,7 +1896,7 @@
         "full_name": "juanfont/headscale",
         "html_url": "https://github.com/juanfont/headscale",
         "description": "An open source, self-hosted implementation of the Tailscale control server",
-        "stargazers_count": 44683,
+        "stargazers_count": 44718,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1904,7 +1904,7 @@
         "full_name": "danielmiessler/Fabric",
         "html_url": "https://github.com/danielmiessler/Fabric",
         "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-        "stargazers_count": 44292,
+        "stargazers_count": 44311,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1912,7 +1912,7 @@
         "full_name": "Wei-Shaw/sub2api",
         "html_url": "https://github.com/Wei-Shaw/sub2api",
         "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-        "stargazers_count": 44176,
+        "stargazers_count": 44236,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1920,7 +1920,7 @@
         "full_name": "XTLS/Xray-core",
         "html_url": "https://github.com/XTLS/Xray-core",
         "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-        "stargazers_count": 42137,
+        "stargazers_count": 42151,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1936,7 +1936,7 @@
         "full_name": "schollz/croc",
         "html_url": "https://github.com/schollz/croc",
         "description": "Easily and securely send things from one computer to another :crocodile: :package:",
-        "stargazers_count": 40608,
+        "stargazers_count": 40616,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1944,7 +1944,7 @@
         "full_name": "photoprism/photoprism",
         "html_url": "https://github.com/photoprism/photoprism",
         "description": "AI-Powered Photos App 🌈💎✨",
-        "stargazers_count": 40304,
+        "stargazers_count": 40311,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1952,7 +1952,7 @@
         "full_name": "gofiber/fiber",
         "html_url": "https://github.com/gofiber/fiber",
         "description": "⚡️ Express inspired web framework written in Go",
-        "stargazers_count": 40211,
+        "stargazers_count": 40213,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1960,7 +1960,7 @@
         "full_name": "The-Vibe-Company/quivr",
         "html_url": "https://github.com/The-Vibe-Company/quivr",
         "description": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.",
-        "stargazers_count": 39587,
+        "stargazers_count": 39594,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1968,7 +1968,7 @@
         "full_name": "SagerNet/sing-box",
         "html_url": "https://github.com/SagerNet/sing-box",
         "description": "The universal proxy platform",
-        "stargazers_count": 38924,
+        "stargazers_count": 38937,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1976,7 +1976,7 @@
         "full_name": "harness/harness",
         "html_url": "https://github.com/harness/harness",
         "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
-        "stargazers_count": 38548,
+        "stargazers_count": 38558,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1984,7 +1984,7 @@
         "full_name": "aquasecurity/trivy",
         "html_url": "https://github.com/aquasecurity/trivy",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "stargazers_count": 38452,
+        "stargazers_count": 38474,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -1992,7 +1992,7 @@
         "full_name": "istio/istio",
         "html_url": "https://github.com/istio/istio",
         "description": "Connect, secure, control, and observe services.",
-        "stargazers_count": 38441,
+        "stargazers_count": 38442,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -2000,7 +2000,7 @@
         "full_name": "docker/compose",
         "html_url": "https://github.com/docker/compose",
         "description": "Define and run multi-container applications with Docker",
-        "stargazers_count": 38368,
+        "stargazers_count": 38377,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -2008,7 +2008,7 @@
         "full_name": "tailscale/tailscale",
         "html_url": "https://github.com/tailscale/tailscale",
         "description": "The easiest, most secure way to use WireGuard and 2FA.",
-        "stargazers_count": 37632,
+        "stargazers_count": 37663,
         "recent_stars": 0,
         "language": "Go"
       },
@@ -2016,7 +2016,7 @@
         "full_name": "glanceapp/glance",
         "html_url": "https://github.com/glanceapp/glance",
         "description": "A self-hosted dashboard that puts all your feeds in one place",
-        "stargazers_count": 37520,
+        "stargazers_count": 37533,
         "recent_stars": 0,
         "language": "Go"
       }
@@ -2026,7 +2026,7 @@
         "full_name": "ultraworkers/claw-code",
         "html_url": "https://github.com/ultraworkers/claw-code",
         "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 194925,
+        "stargazers_count": 194933,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2034,7 +2034,7 @@
         "full_name": "clash-verge-rev/clash-verge-rev",
         "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
         "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-        "stargazers_count": 151751,
+        "stargazers_count": 151963,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2042,7 +2042,7 @@
         "full_name": "farion1231/cc-switch",
         "html_url": "https://github.com/farion1231/cc-switch",
         "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "stargazers_count": 145016,
+        "stargazers_count": 145354,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2050,7 +2050,7 @@
         "full_name": "openai/codex",
         "html_url": "https://github.com/openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
-        "stargazers_count": 129467,
+        "stargazers_count": 129579,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2058,7 +2058,7 @@
         "full_name": "rustdesk/rustdesk",
         "html_url": "https://github.com/rustdesk/rustdesk",
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "stargazers_count": 125977,
+        "stargazers_count": 126068,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2066,7 +2066,7 @@
         "full_name": "rust-lang/rust",
         "html_url": "https://github.com/rust-lang/rust",
         "description": "Empowering everyone to build reliable and efficient software.",
-        "stargazers_count": 120402,
+        "stargazers_count": 120428,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2074,7 +2074,7 @@
         "full_name": "tauri-apps/tauri",
         "html_url": "https://github.com/tauri-apps/tauri",
         "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
-        "stargazers_count": 111941,
+        "stargazers_count": 111958,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2082,7 +2082,7 @@
         "full_name": "ruvnet/RuView",
         "html_url": "https://github.com/ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "stargazers_count": 98261,
+        "stargazers_count": 98391,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2090,7 +2090,7 @@
         "full_name": "oven-sh/bun",
         "html_url": "https://github.com/oven-sh/bun",
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-        "stargazers_count": 96263,
+        "stargazers_count": 96268,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2098,7 +2098,7 @@
         "full_name": "zed-industries/zed",
         "html_url": "https://github.com/zed-industries/zed",
         "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "stargazers_count": 91799,
+        "stargazers_count": 91835,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2106,7 +2106,7 @@
         "full_name": "astral-sh/uv",
         "html_url": "https://github.com/astral-sh/uv",
         "description": "An extremely fast Python package and project manager, written in Rust.",
-        "stargazers_count": 90806,
+        "stargazers_count": 90836,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2114,7 +2114,7 @@
         "full_name": "rtk-ai/rtk",
         "html_url": "https://github.com/rtk-ai/rtk",
         "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-        "stargazers_count": 83568,
+        "stargazers_count": 83667,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2122,7 +2122,7 @@
         "full_name": "pbakaus/impeccable",
         "html_url": "https://github.com/pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
-        "stargazers_count": 81777,
+        "stargazers_count": 82133,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2130,7 +2130,7 @@
         "full_name": "dani-garcia/vaultwarden",
         "html_url": "https://github.com/dani-garcia/vaultwarden",
         "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-        "stargazers_count": 69142,
+        "stargazers_count": 69189,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2138,7 +2138,7 @@
         "full_name": "openinterpreter/openinterpreter",
         "html_url": "https://github.com/openinterpreter/openinterpreter",
         "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
-        "stargazers_count": 68585,
+        "stargazers_count": 68591,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2146,7 +2146,7 @@
         "full_name": "alacritty/alacritty",
         "html_url": "https://github.com/alacritty/alacritty",
         "description": "A cross-platform, OpenGL terminal emulator.",
-        "stargazers_count": 65976,
+        "stargazers_count": 65981,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2154,7 +2154,7 @@
         "full_name": "warpdotdev/warp",
         "html_url": "https://github.com/warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
-        "stargazers_count": 65474,
+        "stargazers_count": 65487,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2162,15 +2162,15 @@
         "full_name": "storytold/photocraft",
         "html_url": "https://github.com/storytold/photocraft",
         "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-        "stargazers_count": 63983,
+        "stargazers_count": 65409,
         "recent_stars": 0,
         "language": "Rust"
       },
       {
         "full_name": "tw93/Pake",
         "html_url": "https://github.com/tw93/Pake",
-        "description": "🤱🏻 Turn any website into a tiny, fast desktop app.",
-        "stargazers_count": 62126,
+        "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
+        "stargazers_count": 62143,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2178,7 +2178,7 @@
         "full_name": "FuelLabs/sway",
         "html_url": "https://github.com/FuelLabs/sway",
         "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
-        "stargazers_count": 61388,
+        "stargazers_count": 61384,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2186,7 +2186,7 @@
         "full_name": "sharkdp/bat",
         "html_url": "https://github.com/sharkdp/bat",
         "description": "A cat(1) clone with wings.",
-        "stargazers_count": 60800,
+        "stargazers_count": 60809,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2194,7 +2194,7 @@
         "full_name": "starship/starship",
         "html_url": "https://github.com/starship/starship",
         "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-        "stargazers_count": 60283,
+        "stargazers_count": 60296,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2202,7 +2202,7 @@
         "full_name": "rust-unofficial/awesome-rust",
         "html_url": "https://github.com/rust-unofficial/awesome-rust",
         "description": "A curated list of Rust code and resources.",
-        "stargazers_count": 59887,
+        "stargazers_count": 59901,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2210,7 +2210,7 @@
         "full_name": "meilisearch/meilisearch",
         "html_url": "https://github.com/meilisearch/meilisearch",
         "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-        "stargazers_count": 59581,
+        "stargazers_count": 59588,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2218,7 +2218,7 @@
         "full_name": "FuelLabs/fuel-core",
         "html_url": "https://github.com/FuelLabs/fuel-core",
         "description": "Rust full node implementation of the Fuel v2 protocol.",
-        "stargazers_count": 56799,
+        "stargazers_count": 56796,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2226,7 +2226,7 @@
         "full_name": "typst/typst",
         "html_url": "https://github.com/typst/typst",
         "description": "A markup-based typesetting system that is powerful and easy to learn.",
-        "stargazers_count": 56651,
+        "stargazers_count": 56666,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2234,7 +2234,7 @@
         "full_name": "aaif-goose/goose",
         "html_url": "https://github.com/aaif-goose/goose",
         "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "stargazers_count": 55334,
+        "stargazers_count": 55354,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2242,7 +2242,7 @@
         "full_name": "astral-sh/ruff",
         "html_url": "https://github.com/astral-sh/ruff",
         "description": "An extremely fast Python linter and code formatter, written in Rust.",
-        "stargazers_count": 50110,
+        "stargazers_count": 50129,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2250,7 +2250,7 @@
         "full_name": "bevyengine/bevy",
         "html_url": "https://github.com/bevyengine/bevy",
         "description": "A refreshingly simple data-driven game engine built in Rust",
-        "stargazers_count": 49052,
+        "stargazers_count": 49080,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2258,7 +2258,7 @@
         "full_name": "juspay/hyperswitch",
         "html_url": "https://github.com/juspay/hyperswitch",
         "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-        "stargazers_count": 45331,
+        "stargazers_count": 45334,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2266,7 +2266,7 @@
         "full_name": "janhq/jan",
         "html_url": "https://github.com/janhq/jan",
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-        "stargazers_count": 44963,
+        "stargazers_count": 44975,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2274,7 +2274,7 @@
         "full_name": "sharkdp/fd",
         "html_url": "https://github.com/sharkdp/fd",
         "description": "A simple, fast and user-friendly alternative to 'find'",
-        "stargazers_count": 44759,
+        "stargazers_count": 44768,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2282,7 +2282,7 @@
         "full_name": "herdrdev/herdr",
         "html_url": "https://github.com/herdrdev/herdr",
         "description": "the runtime your coding agents live on",
-        "stargazers_count": 44285,
+        "stargazers_count": 44431,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2290,15 +2290,7 @@
         "full_name": "vercel-labs/agent-browser",
         "html_url": "https://github.com/vercel-labs/agent-browser",
         "description": "Browser automation CLI for AI agents",
-        "stargazers_count": 44070,
-        "recent_stars": 0,
-        "language": "Rust"
-      },
-      {
-        "full_name": "FuelLabs/fuels-rs",
-        "html_url": "https://github.com/FuelLabs/fuels-rs",
-        "description": "Fuel Network Rust SDK",
-        "stargazers_count": 42977,
+        "stargazers_count": 44112,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2306,7 +2298,7 @@
         "full_name": "sxyazi/yazi",
         "html_url": "https://github.com/sxyazi/yazi",
         "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-        "stargazers_count": 42860,
+        "stargazers_count": 42875,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2314,7 +2306,7 @@
         "full_name": "tinyhumansai/openhuman",
         "html_url": "https://github.com/tinyhumansai/openhuman",
         "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
-        "stargazers_count": 42100,
+        "stargazers_count": 42122,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2322,7 +2314,7 @@
         "full_name": "GyulyVGC/sniffnet",
         "html_url": "https://github.com/GyulyVGC/sniffnet",
         "description": "Comfortably monitor your network traffic 🕵️‍♂️",
-        "stargazers_count": 41566,
+        "stargazers_count": 41580,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2330,7 +2322,7 @@
         "full_name": "codewhale-hq/Codewhale",
         "html_url": "https://github.com/codewhale-hq/Codewhale",
         "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
-        "stargazers_count": 41092,
+        "stargazers_count": 41091,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2338,7 +2330,7 @@
         "full_name": "nushell/nushell",
         "html_url": "https://github.com/nushell/nushell",
         "description": "A new type of shell",
-        "stargazers_count": 40670,
+        "stargazers_count": 40674,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2346,7 +2338,7 @@
         "full_name": "ajeetdsouza/zoxide",
         "html_url": "https://github.com/ajeetdsouza/zoxide",
         "description": "A smarter cd command. Supports all major shells.",
-        "stargazers_count": 40127,
+        "stargazers_count": 40153,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2354,7 +2346,7 @@
         "full_name": "pola-rs/polars",
         "html_url": "https://github.com/pola-rs/polars",
         "description": "Extremely fast Query Engine for DataFrames, written in Rust",
-        "stargazers_count": 40097,
+        "stargazers_count": 40101,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2362,7 +2354,7 @@
         "full_name": "DioxusLabs/dioxus",
         "html_url": "https://github.com/DioxusLabs/dioxus",
         "description": "Fullstack app framework for web, desktop, and mobile.",
-        "stargazers_count": 39411,
+        "stargazers_count": 39422,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2370,15 +2362,7 @@
         "full_name": "spacedriveapp/spacedrive",
         "html_url": "https://github.com/spacedriveapp/spacedrive",
         "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
-        "stargazers_count": 39193,
-        "recent_stars": 0,
-        "language": "Rust"
-      },
-      {
-        "full_name": "lapce/lapce",
-        "html_url": "https://github.com/lapce/lapce",
-        "description": "Lightning-fast and Powerful Code Editor written in Rust",
-        "stargazers_count": 38923,
+        "stargazers_count": 39203,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2386,7 +2370,7 @@
         "full_name": "servo/servo",
         "html_url": "https://github.com/servo/servo",
         "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-        "stargazers_count": 38161,
+        "stargazers_count": 38170,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2394,7 +2378,7 @@
         "full_name": "AlexsJones/llmfit",
         "html_url": "https://github.com/AlexsJones/llmfit",
         "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-        "stargazers_count": 37977,
+        "stargazers_count": 38004,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2402,7 +2386,7 @@
         "full_name": "firecracker-microvm/firecracker",
         "html_url": "https://github.com/firecracker-microvm/firecracker",
         "description": "Secure and fast microVMs for serverless computing.",
-        "stargazers_count": 37423,
+        "stargazers_count": 37439,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2410,7 +2394,7 @@
         "full_name": "pnpm/pnpm",
         "html_url": "https://github.com/pnpm/pnpm",
         "description": "Fast, disk space efficient package manager",
-        "stargazers_count": 36817,
+        "stargazers_count": 36825,
         "recent_stars": 0,
         "language": "Rust"
       },
@@ -2418,7 +2402,23 @@
         "full_name": "casey/just",
         "html_url": "https://github.com/casey/just",
         "description": "🤖 Just a command runner",
-        "stargazers_count": 36304,
+        "stargazers_count": 36316,
+        "recent_stars": 0,
+        "language": "Rust"
+      },
+      {
+        "full_name": "block/buzz",
+        "html_url": "https://github.com/block/buzz",
+        "description": "A hive mind communication platform",
+        "stargazers_count": 36083,
+        "recent_stars": 0,
+        "language": "Rust"
+      },
+      {
+        "full_name": "zellij-org/zellij",
+        "html_url": "https://github.com/zellij-org/zellij",
+        "description": "A terminal workspace with batteries included",
+        "stargazers_count": 35752,
         "recent_stars": 0,
         "language": "Rust"
       }
